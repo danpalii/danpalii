@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @danpalii
-- 👀 I’m interested in Computer Science and IT Technology.
-- 🌱 I’m currently learning C.
+- 👀 I’m interested in Computer Science, Data Science and IT Technology.
+- 🌱 I’m currently learning Python, Git and SQL.
 - 🏫 I`m student at the Technical University of Moldova.
