@@ -5,6 +5,7 @@
 
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/wHB67Zkr63UP7RWJsj/giphy.gif">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danpalii&show_icons=true&theme=radical)
