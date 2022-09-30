@@ -22,7 +22,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.9c427ab6-e4ea-4ee8-ad57-7f6657c48cb3 }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.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 }}
 <!--END_SECTION:waka-->
 
 
