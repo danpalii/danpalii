@@ -9,4 +9,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danpalii&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=n1ght&unique=true)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=hf11fp3vvr9vlhjqjjfijw1up)
