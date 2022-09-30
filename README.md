@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Django, asynIO and SQL.
 - 🏫 I`m student at the Technical University of Moldova.
 
-<a href="your link" target="blank"><img align="center" src=""https://img.icons8.com/color/48/000000/python--v1.png" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://icons8.com/icon/13441/python" alt="" height="30" width="40" /></a>
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/jS1neGDOkaHmn36A6D/giphy.gif">
