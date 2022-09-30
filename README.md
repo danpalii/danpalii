@@ -4,7 +4,6 @@
 - 🏫 I`m student at the Technical University of Moldova.
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danpalii&show_icons=true&theme=radical)
