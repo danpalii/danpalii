@@ -6,7 +6,8 @@
 <a href="your link" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/python--v1.pn" alt="" height="30" width="40" /></a>
 
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /><img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/jS1neGDOkaHmn36A6D/giphy.gif">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/jS1neGDOkaHmn36A6D/giphy.gif">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danpalii&show_icons=true&theme=radical)
